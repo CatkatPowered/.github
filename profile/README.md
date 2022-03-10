@@ -6,8 +6,8 @@
 
 - [Kat Project](https://project.catkatpowered.com)
 - [Kat Protocol](https://protocol.catkatpowered.com/)
-- [隐私协议](https://project.catkatpowered.com/#/privacy-policy)
-- [用户协议](https://project.catkatpowered.com/#/terms-of-use)
+- [隐私政策](https://project.catkatpowered.com/#/privacy-policy)
+- [使用条款](https://project.catkatpowered.com/#/terms-of-use)
 - [开源声明](https://project.catkatpowered.com/#/open-source-license)
 
 
